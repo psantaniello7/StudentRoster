@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Roster
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=studentId\ firstName\ lastName\ email\ age\ grade1\ grade2\ grade3
+comment2.target=void\ addStudent(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ loop_average_grade()
+comment4.params=studentId
+comment4.target=void\ remove(java.lang.String)
+comment5.params=
+comment5.target=void\ print_all()
+comment6.params=studentId
+comment6.target=void\ print_average_grade(java.lang.String)
+comment7.params=
+comment7.target=void\ print_invalid_emails()
+numComments=8
